@@ -10,4 +10,4 @@ Hyaku　or　Kyon　𓈒 ꮚ　　⁰⁰　     𓂃
   alt="fozetail"
   style="max-width: 90px; height: 90px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.3); object-fit: cover;">
 <p align=center>
-<a href=https://ogatahyakunosuke.atabook.org/>ATABOOK</a>　𓏼　<a href=https://rentry.co/osugi>RENTRY</a>　𓏼　<a href=https://rentry.co/sugarglider>MATCH</a>　ױ
+<a href=https://ogatahyakunosuke.atabook.org/>ATABOOK</a>　𓏼　<a href=https://rentry.co/alejo>RENTRY</a>　𓏼　<a href=https://rentry.co/sugarglider>MATCH</a>　ױ
